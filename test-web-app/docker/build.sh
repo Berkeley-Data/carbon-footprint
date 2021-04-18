@@ -1,0 +1,1 @@
+docker build -f ./docker/Dockerfile -t test-web-app:latest .
