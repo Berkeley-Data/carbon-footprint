@@ -15,3 +15,5 @@ We are proud of what we accomplished.
 Kevin Hartman, Padmavati Sridhar, Qian (Cathy) Deng, Shaji Kunjumohamed, Kevin Hanna, Vaishnavi Rajagopal, and Christina Chen
 
 #datascience #ucberkeley #innovationinaction   #machinelearning #imagerecognition #deeplearning  #edgecomputing #teamwork
+
+http://bit.ly/wcid-berkeley
