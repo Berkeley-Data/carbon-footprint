@@ -12,6 +12,6 @@ The team worked tirelessly to build the solution. The concept was turned from id
 
 We are proud of what we accomplished.
 
-Kevin Hartman, Padmavati Sridhar, Qian (Cathy) Deng, Shaji Kunjumohamed, Kevin Hanna, Vaishnavi Rajagopal, and Christina Chen - you are  amazing!
+Kevin Hartman, Padmavati Sridhar, Qian (Cathy) Deng, Shaji Kunjumohamed, Kevin Hanna, Vaishnavi Rajagopal, and Christina Chen
 
 #datascience #ucberkeley #innovationinaction   #machinelearning #imagerecognition #deeplearning  #edgecomputing #teamwork
